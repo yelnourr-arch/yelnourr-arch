@@ -1,68 +1,83 @@
-<h1 align="center">Hey 👋, I'm Yousef Mohamed</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Front-End+Developer;Passionate+about+Web+Design;Always+Learning+New+Technologies;Building+Real+Projects" />
-</p>
-
-<p align="center">
+<p>
 Welcome to my GitHub profile 👋 <br/>
 I'm <b>Yousef Mohamed</b>, a Front-End Development student passionate about designing and building modern websites and mobile applications.  
-I enjoy learning new technologies and improving my skills by building real projects with clean UI and smooth user experience.
+I enjoy learning new technologies and continuously improving my skills by working on real projects with clean UI and smooth user experience.
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<h3>Things I code with</h3>
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
----
+<h3>About Me</h3>
+<ul>
+  <li>💻 Front-End Developer focused on building responsive web applications</li>
+  <li>📚 Always learning modern web technologies</li>
+  <li>🤝 Enjoy working in teams and collaborating on projects</li>
+  <li>🚀 Motivated to grow in the field of software development</li>
+</ul>
 
-<h3 align="center">🚀 Tech Stack</h3>
+<h3>Open Source Projects</h3>
+<p>
+Here are some of my projects (you can update them with your real GitHub repositories):
+</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>Projects</b></td>
+      <td><b>Language</b></td>
+      <td><b>Status</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Your Project 1</td>
+      <td>HTML / CSS / JS</td>
+      <td>Completed / In Progress</td>
+    </tr>
+    <tr>
+      <td>Your Project 2</td>
+      <td>React</td>
+      <td>In Progress</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Where to find me</h3>
+
+<p>
+<a href="https://github.com/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+</a>
 
----
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<a href="https://t.me/Yousif_Moham" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
----
-
-<h3 align="center">🌐 Connect with me</h3>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://x.com/yousufm74588507?s=21" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 <p align="center">
-<i>Building skills one project at a time 🚀</i>
+<i>This README reflects my journey as a Front-End Developer and is continuously updated as I grow.</i>
 </p>
